@@ -5,3 +5,5 @@ I have developed a comprehensive project in Excel, creating multiple dashboards 
 
 ## Project Objective
   Hotel Employees wants to create report of booking cancellations . So that , the owner can understood reason of cancellations and also understood their customers and grow more.
+# Database Used 
+- <a href="https://github.com/VaishnaviKatiyar04/Data-Analysis-Dashboard/blob/main/My%20Dashboard.xlsx">Dataset</a>
